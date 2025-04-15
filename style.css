@@ -3,3 +3,8 @@
   flex-flow: column;
   align-items: center;
 }
+
+.red-team span {
+  color: red;
+  font-size: 1.3em;
+}
